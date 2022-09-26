@@ -1,5 +1,6 @@
 <h1 align="center">Welcome all, I'm Ethan.</h1>
 <h3 align="center">Aspiring full-stack developer.</h3>
+<img align="right" alt="Coding Gif" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/5eeea355389655.59822ff824b72.gif">
 
 - 🔭 I’m currently working on [My portfolio](https://github.com/mikewazowskiXD/portfolio)
 
