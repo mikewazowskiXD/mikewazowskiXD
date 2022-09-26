@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Ethan Michael</h1>
-<h3 align="center">A passionate frontend developer from Florida</h3>
+<h1 align="center">Welcome all, I'm Ethan.</h1>
+<h3 align="center">Aspiring full-stack developer.</h3>
 
 - 🔭 I’m currently working on [My portfolio](https://github.com/mikewazowskiXD/portfolio)
 
