@@ -1,4 +1,4 @@
-![MasterHead](https://moline.il.us/ImageRepository/Document?documentID=6211)
+![MasterHead](https://wallpaperaccess.com/full/4849647.jpg)
 <h1 align="center">Welcome all, I'm Ethan.</h1>
 <h3 align="right">Aspiring full-stack developer.</h3>
 <img align="right" alt="Coding Gif" width="250" src="https://media-exp1.licdn.com/dms/image/C4D03AQEta5OncFzqww/profile-displayphoto-shrink_200_200/0/1551038629284?e=1669852800&v=beta&t=Oa8h20w7PEjQoJlWApzfj8gH9KNyWdGTGBTkcMbyQRI">
