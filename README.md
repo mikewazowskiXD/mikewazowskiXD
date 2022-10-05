@@ -3,7 +3,7 @@
 <h3 align="right">Aspiring full-stack developer.</h3>
 <img align="right" alt="Coding Gif" width="250" src="https://media-exp1.licdn.com/dms/image/C4D03AQEta5OncFzqww/profile-displayphoto-shrink_200_200/0/1551038629284?e=1669852800&v=beta&t=Oa8h20w7PEjQoJlWApzfj8gH9KNyWdGTGBTkcMbyQRI">
 
-- 🔭 I’m currently working on something secret. . . </a>
+- 🔭 I’m currently working on <a href="https://github.com/mikewazowskiXD/console-demo">React Console</a>
 
 - 🌱 I’m currently learning **Data Structures and Algorithms**
 
