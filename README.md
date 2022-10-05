@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on <a href="https://github.com/mikewazowskiXD/console-demo">React Console</a>.
 
-- 🌱 I’m currently learning **Data Structures and Algorithms**
+- 🌱 I’m currently learning **Data Structures and Algorithms**.
 
 
 <h1 align="left">Languages and Tools</h1>
